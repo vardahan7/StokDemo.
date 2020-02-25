@@ -1,5 +1,8 @@
 # StokDemo.
 
+classlara src/com/company klasöründe bulabilirsiniz
+
+
 Ozkan -> urunekle ve urun classında çalışabilirsin
 
 
